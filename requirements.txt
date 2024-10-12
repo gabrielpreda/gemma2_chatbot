@@ -1,4 +1,6 @@
 streamlit==1.38.0
-keras-nlp==0.14.4
-keras>=3
-kagglehub
+transformers
+fastapi
+pydantic
+python-dotenv
+uvicorn
